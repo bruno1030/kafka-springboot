@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.javaguides</groupId>
-	<artifactId>springboot-kafka-tutorial</artifactId>
+	<artifactId>kafka-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-kafka-tutorial</name>
+	<name>kafka-springboot</name>
 	<description>Project for Spring Boot and Kafka</description>
 	<properties>
 		<java.version>11</java.version>
